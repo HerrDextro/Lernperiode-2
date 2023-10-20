@@ -1,11 +1,15 @@
 # Lernperiode-2
 
+// Grob-Planung
 
+- [ ] Doom game parody machen
+- [ ] Programmieren mit einen Game-engine verbinden
 
+## Arbeit 20.10.2023
 
-**Arbeit 20.10.2023**
-
-Die folgende Sachen möchte ich am 20.10.2023 bis 27.10.2023 gemacht haben:
+##Fein-Planung
 
 - [ ] Modul 319 fertig
 - [ ] "Doom" minigame R:U.S.T.Y. fertig
+
+## Arbeitspakete für 27.10
