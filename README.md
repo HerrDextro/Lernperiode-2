@@ -6,11 +6,18 @@
 - [ ] Programmieren mit einen Game-engine verbinden
 
 ## Arbeit 20.10.2023
-- Start Portfolio 431
+- Start Portfolio 319
 
 ##Fein-Planung
 
 - [ ] Modul 319 fertig
 - [ ] "Doom" minigame starten
 
-## Arbeitspakete für 27.10
+## Arbeitspakete für 27.10.2023
+
+- [ ] Portfolio 319 weiterarbeiten
+
+## Arbeitspakete für 4.11.2023
+
+- [ ] game aufbau recherchieren
+- [ ] HZ-1 des Modul 162 Datenbanken fertig
