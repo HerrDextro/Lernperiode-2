@@ -10,12 +10,12 @@
 
 ##Fein-Planung
 
-- [ ] Modul 319 fertig
+- [x] Modul 319 fertig
 - [ ] "Doom" minigame starten
 
 ## Arbeitspakete für 27.10.2023
 
-- [ ] Portfolio 319 weiterarbeiten
+- [x] Portfolio 319 weiterarbeiten
 
 ## Arbeitspakete für 4.11.2023
 
