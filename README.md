@@ -6,7 +6,7 @@
 - [ ] Programmieren mit einen Game-engine verbinden
 
 ## Arbeit 20.10.2023
-- Start Portfolio 319
+- [x] Start Portfolio 319
 
 ##Fein-Planung
 
