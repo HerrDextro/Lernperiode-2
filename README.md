@@ -21,3 +21,8 @@
 
 - [ ] game aufbau recherchieren
 - [ ] HZ-1 des Modul 162 Datenbanken fertig
+
+## Arbeitspakete für 10.11.2023
+
+- [ ] Modul 162 Datenbanken excel Formeln lernen
+- [ ] Programmierprojekt interface gestalten
