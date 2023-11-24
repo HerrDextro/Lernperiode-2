@@ -30,7 +30,7 @@
 ## Arbeitspakete für 24.11.2023
 - [x] Modul 162 HZ4 und HZ5 repetition
 - [ ] Modul 162 HA auf 29.11.2023
-- [x] JetSpecs Rechner V2 PAP
+- [x] JetSpecs Rechner V2 PAP "FTC" Unterprogramm
 - [ ] JetSpecs rechner V2 Erste Übung (einfacher Rechner in WinForms)
 
 ## Arbeitspakete für 01.12.2023
