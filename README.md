@@ -8,7 +8,7 @@
 ## Arbeit 20.10.2023
 - [x] Start Portfolio 319
 
-##Fein-Planung
+## Fein-Planung
 
 - [x] Modul 319 fertig
 - [ ] "Doom" minigame starten
