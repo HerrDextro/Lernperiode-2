@@ -19,8 +19,8 @@
 
 ## Arbeitspakete für 4.11.2023
 
-- [ ] game aufbau recherchieren
-- [ ] HZ-1 des Modul 162 Datenbanken fertig
+- [x] game aufbau recherchieren
+- [x] HZ-1 des Modul 162 Datenbanken fertig
 
 ## Arbeitspakete für 10.11.2023
 
