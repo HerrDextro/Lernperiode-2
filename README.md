@@ -24,8 +24,8 @@
 
 ## Arbeitspakete für 10.11.2023
 
-- [ ] Modul 162 Datenbanken excel Formeln lernen
-- [ ] Programmierprojekt interface gestalten
+- [x] Modul 162 Datenbanken excel Formeln lernen
+- [x] Programmierprojekt interface gestalten
 
 ## Arbeitspakete für 24.11.2023
 - [ ] Modul 162 HZ4 und HZ5 repetition
