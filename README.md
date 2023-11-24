@@ -30,3 +30,4 @@
 ## Arbeitspakete für 24.11.2023
 - [ ] Modul 162 HZ4 und HZ5 repetition
 - [ ] Modul 162 HA auf 29.11.2023
+- [ ] JetSpecs Rechner V2
