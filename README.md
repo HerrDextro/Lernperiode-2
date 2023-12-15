@@ -43,4 +43,22 @@ Ausgaben Überprüfen und eine einfache rechnung. Ich wird jetzt über die näch
 damit ich das nächste mal die Problemen mit Hilfe lösen kann.
 
 ## Arbeitspakete für 01.12.2023
-- [ ]Jetspecs Rechner "FTC" Unterprogramm fertig
+- [ ] Jetspecs Rechner "FTC" Unterprogramm fertig
+
+## Arbeitspakete für 08.12.2023
+- [ ] Jetspecs Rechner UI gestalten, inklusive start
+- [ ] Jetspecs Rechner Flametube ID,OD und Länge Programm
+
+## Arbeitspakete für 15.12.2023
+- [ ] Jetspecs Rechner Flametube Primary/Secondary/Tertiary zone Programm
+- [ ] Jetspecs Rechner andere Funktionen leere Fenster im UI drinnen
+
+Zusammenfassung 15.12.2023
+Ich fing heute an, kurz das Modul 117 anzuschauen, um die Sachen besser verstehen zu können. Danach have ich ein bisschen mit dem SQL Server Programm, welches wir für Modul 167 heruntergeladen haben, herumgespielt. Meine kleine Schwester sammelt viele Informationen über viele Sachen, also wurde ich gerne für sie eine Datenbank machen. Danach wurde das ganze Datenbank zeug mir langweilig, und ich habe ein Konzept für 3D schach bedacht, um später zu Programmieren. 3D schach wäre möglich, aber ich kann nicht gut genug programmieren um es jetzt zu machen, und ich habe andere Projekte, die ich eigentlich zuerst erledigen soll. Ich habe mir ein "codeless game engine" heruntergeladen, damit ich mein Idee testen kann. Ich wird aber die ganze Zeit abgelenkt, und entschloss dann, mal etwas nutzliches zu arbeiten. Jemand von der Klasse hat mir eine Website angeraden, womit ich weiterlernen kann, wie zu coden, damit ich mein Rechner Programm fertigmachen kann. Die Website heisst w3schools. Sonst habe ich noch ein bisschen weiterprogrammiert, und geschaut ob ich die Advent of Code Sachen machen kann, aber die sind noch zu schwierig für mich.
+
+## Arbeitspakete für 22.12.2023
+- [ ] Jetspecs Rechner Löcher anzahl rechner
+- [ ] Jetspecs Rechner FT bilder und diagramme reinmachen
+
+
+
