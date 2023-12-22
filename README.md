@@ -3,7 +3,7 @@
 ## Grob-Planung
 
 - [ ] Doom game parody machen
-- [ ] Programmieren mit einen Game-engine verbinden
+- [x] Programmieren mit einen Game-engine verbinden
 
 ## Arbeit 20.10.2023
 - [x] Start Portfolio 319
@@ -11,7 +11,7 @@
 ## Fein-Planung
 
 - [x] Modul 319 fertig
-- [ ] "Doom" minigame starten
+- [x] "Doom" minigame starten
 
 ## Arbeitspakete für 27.10.2023
 
@@ -29,9 +29,9 @@
 
 ## Arbeitspakete für 24.11.2023
 - [x] Modul 162 HZ4 und HZ5 repetition
-- [ ] Modul 162 HA auf 29.11.2023
+- [x] Modul 162 HA auf 29.11.2023
 - [x] JetSpecs Rechner V2 PAP "FTC" Unterprogramm
-- [ ] JetSpecs rechner V2 Erste Übung (einfacher Rechner in WinForms)
+- [x] JetSpecs rechner V2 Erste Übung (einfacher Rechner in WinForms)
 
 Zusammenfassung 24.11.2023
 
@@ -58,7 +58,7 @@ Ich fing heute an, kurz das Modul 117 anzuschauen, um die Sachen besser verstehe
 
 ## Arbeitspakete für 22.12.2023
 - [ ] Jetspecs Rechner Primärlöcher anzahl rechner
-- [ ] Prüfungsvorbereitung M167
+- [x] Prüfungsvorbereitung M167
 
 Zusammenfassung für 22.12.2023
 Ich habe heute in der Pause und auch im Lernatelier vieles SQL gemacht, und ich bin angefangen mit mein Logisches DatenModell für die Prüfung von Modul 167, die wir nach die Weihnachtsferien machen müssen. SQL finde ich bis jetzt viel einfacher als C#, aber warscheinlich ist das weil wir nicht so viel kompliziertes machen. Mit mein C# Programm bin ich gar nicht weit gekommen, weil ich warscheinlich so aus unwissenheit eher andere Sachen gemacht habe. Weiter mit die Prüfungsvorbereitung: Ich kenne jetzt die Statements CREATE TABLE,INSERT INTO, ALTER, UPDATE, DROP,SELCT FROM und ich kann sie ohne viel Mühe ausführen. Das grösste Problem was ich habe, ist es bei eine Aufgabe herauszufinden, was genau gerfragt wird und welche Statements ich brauche um es zu bekommen. Ich habe all die Übungen wieder von W3Schools, weil es einfach eine super Website ist. Der Grund, dass ich jetzt eher auf die Prüfungen Fokussieren woll ist es, dass meine Noten in Informatik sehr (wirklich unterirdisch(!)) schlecht sind, während die Ferien wird ich schon meinen Projekt fertigmachen, und mehr C# üben damit ich auf gleiche Niveau bin als die anderen.
