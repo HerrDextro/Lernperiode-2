@@ -1,4 +1,4 @@
-# Lernperiode-2
+# Lern-Periode-2
 
 ## Grob-Planung
 
